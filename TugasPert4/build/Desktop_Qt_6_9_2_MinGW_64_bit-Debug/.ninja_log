@@ -1,0 +1,81 @@
+# ninja log v6
+14	642	7808758992568188	TugasPert4_autogen/timestamp	a8cb2339284718e0
+14	642	7808758992568188	TugasPert4_autogen/mocs_compilation.cpp	a8cb2339284718e0
+14	642	7808758992568188	C:/OSHEA/KULIAH/Semester 5/Komgraf/TugasPert4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TugasPert4_autogen/timestamp	a8cb2339284718e0
+14	642	7808758992568188	C:/OSHEA/KULIAH/Semester 5/Komgraf/TugasPert4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TugasPert4_autogen/mocs_compilation.cpp	a8cb2339284718e0
+9	34	7808758985802412	CMakeFiles/clean.additional	baedbe210acaa455
+647	2931	7808758993269324	CMakeFiles/TugasPert4.dir/main.cpp.obj	96490b79f004b497
+643	3038	7808758993233110	CMakeFiles/TugasPert4.dir/TugasPert4_autogen/mocs_compilation.cpp.obj	1714767c4809b020
+34	43	7808758986072000	clean	577b940aee94fbd7
+20	599	7808781459320992	TugasPert4_autogen/timestamp	a8cb2339284718e0
+20	599	7808781459320992	TugasPert4_autogen/mocs_compilation.cpp	a8cb2339284718e0
+20	599	7808781459320992	C:/OSHEA/KULIAH/Semester 5/Komgraf/TugasPert4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TugasPert4_autogen/timestamp	a8cb2339284718e0
+20	599	7808781459320992	C:/OSHEA/KULIAH/Semester 5/Komgraf/TugasPert4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TugasPert4_autogen/mocs_compilation.cpp	a8cb2339284718e0
+605	2752	7808781460046960	CMakeFiles/TugasPert4.dir/main.cpp.obj	96490b79f004b497
+600	2781	7808781460000677	CMakeFiles/TugasPert4.dir/TugasPert4_autogen/mocs_compilation.cpp.obj	1714767c4809b020
+609	2830	7808781460077292	CMakeFiles/TugasPert4.dir/mainwindow.cpp.obj	bd4caf9095825a75
+613	3003	7808781460102401	CMakeFiles/TugasPert4.dir/drawingcanvas.cpp.obj	153c07b1abac929f
+3003	3226	7808781484031129	TugasPert4.exe	41615d719297ff93
+8	36	7808790436695977	CMakeFiles/clean.additional	baedbe210acaa455
+36	50	7808790437008330	clean	577b940aee94fbd7
+7	28	7808790459511758	CMakeFiles/clean.additional	baedbe210acaa455
+29	37	7808790459846775	clean	577b940aee94fbd7
+12	603	7808790465935524	TugasPert4_autogen/timestamp	a8cb2339284718e0
+12	603	7808790465935524	TugasPert4_autogen/mocs_compilation.cpp	a8cb2339284718e0
+12	603	7808790465935524	C:/OSHEA/KULIAH/Semester 5/Komgraf/TugasPert4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TugasPert4_autogen/timestamp	a8cb2339284718e0
+12	603	7808790465935524	C:/OSHEA/KULIAH/Semester 5/Komgraf/TugasPert4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TugasPert4_autogen/mocs_compilation.cpp	a8cb2339284718e0
+608	2652	7808790466583409	CMakeFiles/TugasPert4.dir/main.cpp.obj	96490b79f004b497
+604	2655	7808790466543321	CMakeFiles/TugasPert4.dir/TugasPert4_autogen/mocs_compilation.cpp.obj	1714767c4809b020
+611	2673	7808790466613434	CMakeFiles/TugasPert4.dir/mainwindow.cpp.obj	bd4caf9095825a75
+615	3153	7808790466657109	CMakeFiles/TugasPert4.dir/drawingcanvas.cpp.obj	153c07b1abac929f
+3153	3396	7808790492037275	TugasPert4.exe	41615d719297ff93
+11	146	7808794268633916	TugasPert4_autogen/timestamp	a8cb2339284718e0
+11	146	7808794268633916	TugasPert4_autogen/mocs_compilation.cpp	a8cb2339284718e0
+11	146	7808794268633916	C:/OSHEA/KULIAH/Semester 5/Komgraf/TugasPert4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TugasPert4_autogen/timestamp	a8cb2339284718e0
+11	146	7808794268633916	C:/OSHEA/KULIAH/Semester 5/Komgraf/TugasPert4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TugasPert4_autogen/mocs_compilation.cpp	a8cb2339284718e0
+147	2055	7808794269998749	CMakeFiles/TugasPert4.dir/mainwindow.cpp.obj	bd4caf9095825a75
+7	33	7808794480366556	CMakeFiles/clean.additional	baedbe210acaa455
+33	43	7808794480640487	clean	577b940aee94fbd7
+7	28	7808794527765611	CMakeFiles/clean.additional	baedbe210acaa455
+28	36	7808794528050048	clean	577b940aee94fbd7
+11	602	7808794534112808	TugasPert4_autogen/timestamp	a8cb2339284718e0
+11	602	7808794534112808	TugasPert4_autogen/mocs_compilation.cpp	a8cb2339284718e0
+11	602	7808794534112808	C:/OSHEA/KULIAH/Semester 5/Komgraf/TugasPert4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TugasPert4_autogen/timestamp	a8cb2339284718e0
+11	602	7808794534112808	C:/OSHEA/KULIAH/Semester 5/Komgraf/TugasPert4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TugasPert4_autogen/mocs_compilation.cpp	a8cb2339284718e0
+606	2605	7808794534764144	CMakeFiles/TugasPert4.dir/main.cpp.obj	96490b79f004b497
+610	2624	7808794534804423	CMakeFiles/TugasPert4.dir/mainwindow.cpp.obj	bd4caf9095825a75
+603	2650	7808794534728525	CMakeFiles/TugasPert4.dir/TugasPert4_autogen/mocs_compilation.cpp.obj	1714767c4809b020
+7	32	7808795460193146	CMakeFiles/clean.additional	baedbe210acaa455
+32	42	7808795460453665	clean	577b940aee94fbd7
+8	29	7808795518300886	CMakeFiles/clean.additional	baedbe210acaa455
+30	38	7808795518565097	clean	577b940aee94fbd7
+11	597	7808795524618823	TugasPert4_autogen/timestamp	a8cb2339284718e0
+11	597	7808795524618823	TugasPert4_autogen/mocs_compilation.cpp	a8cb2339284718e0
+11	597	7808795524618823	C:/OSHEA/KULIAH/Semester 5/Komgraf/TugasPert4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TugasPert4_autogen/timestamp	a8cb2339284718e0
+11	597	7808795524618823	C:/OSHEA/KULIAH/Semester 5/Komgraf/TugasPert4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TugasPert4_autogen/mocs_compilation.cpp	a8cb2339284718e0
+601	2630	7808795525242231	CMakeFiles/TugasPert4.dir/main.cpp.obj	96490b79f004b497
+605	2631	7808795525287262	CMakeFiles/TugasPert4.dir/mainwindow.cpp.obj	bd4caf9095825a75
+597	2644	7808795525207178	CMakeFiles/TugasPert4.dir/TugasPert4_autogen/mocs_compilation.cpp.obj	1714767c4809b020
+609	3109	7808795525332560	CMakeFiles/TugasPert4.dir/drawingcanvas.cpp.obj	153c07b1abac929f
+3109	3349	7808795550333930	TugasPert4.exe	41615d719297ff93
+12	154	7808796974933236	TugasPert4_autogen/timestamp	a8cb2339284718e0
+12	154	7808796974933236	TugasPert4_autogen/mocs_compilation.cpp	a8cb2339284718e0
+12	154	7808796974933236	C:/OSHEA/KULIAH/Semester 5/Komgraf/TugasPert4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TugasPert4_autogen/timestamp	a8cb2339284718e0
+12	154	7808796974933236	C:/OSHEA/KULIAH/Semester 5/Komgraf/TugasPert4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TugasPert4_autogen/mocs_compilation.cpp	a8cb2339284718e0
+154	2522	7808796976358135	CMakeFiles/TugasPert4.dir/drawingcanvas.cpp.obj	153c07b1abac929f
+2522	2777	7808797000040869	TugasPert4.exe	41615d719297ff93
+12	147	7808797217231375	TugasPert4_autogen/timestamp	a8cb2339284718e0
+12	147	7808797217231375	TugasPert4_autogen/mocs_compilation.cpp	a8cb2339284718e0
+12	147	7808797217231375	C:/OSHEA/KULIAH/Semester 5/Komgraf/TugasPert4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TugasPert4_autogen/timestamp	a8cb2339284718e0
+12	147	7808797217231375	C:/OSHEA/KULIAH/Semester 5/Komgraf/TugasPert4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TugasPert4_autogen/mocs_compilation.cpp	a8cb2339284718e0
+148	2486	7808797218595705	CMakeFiles/TugasPert4.dir/drawingcanvas.cpp.obj	153c07b1abac929f
+2486	2724	7808797241977924	TugasPert4.exe	41615d719297ff93
+12	641	7808800048373003	TugasPert4_autogen/timestamp	a8cb2339284718e0
+12	641	7808800048373003	TugasPert4_autogen/mocs_compilation.cpp	a8cb2339284718e0
+12	641	7808800048373003	C:/OSHEA/KULIAH/Semester 5/Komgraf/TugasPert4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TugasPert4_autogen/timestamp	a8cb2339284718e0
+12	641	7808800048373003	C:/OSHEA/KULIAH/Semester 5/Komgraf/TugasPert4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TugasPert4_autogen/mocs_compilation.cpp	a8cb2339284718e0
+648	2928	7808800049110027	CMakeFiles/TugasPert4.dir/main.cpp.obj	96490b79f004b497
+643	2936	7808800049057451	CMakeFiles/TugasPert4.dir/TugasPert4_autogen/mocs_compilation.cpp.obj	1714767c4809b020
+652	2942	7808800049163010	CMakeFiles/TugasPert4.dir/mainwindow.cpp.obj	bd4caf9095825a75
+657	3414	7808800049208060	CMakeFiles/TugasPert4.dir/drawingcanvas.cpp.obj	153c07b1abac929f
+3414	3648	7808800076778426	TugasPert4.exe	41615d719297ff93
